@@ -299,8 +299,8 @@ rate-limiter/
 ## 👤 Author
 
 **Praneeth Naidu**
-- GitHub: [@praneethnaidu](https://github.com/praneethnaidu)
-- LinkedIn: [praneeth-naidu](https://linkedin.com/in/praneeth-naidu)
+- GitHub: [@praneethnaidu](https://github.com/praneethnaidu1910-cmd)
+- LinkedIn: [praneeth-naidu](https://www.linkedin.com/in/praneeth-naidu-6a732a241)
 - Email: pnaidu@gmu.edu
 
 ## 📄 License
